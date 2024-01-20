@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
  
-* 🖥️ Sistema de Levantamento de Peso criado pela OER Tecnologia e testado pela OER Labs 👋 pow!
+* 🖥️ Sistema de Levantamento de Peso criado pela OER Tecnologia e testado pela OER Labs!
 * 🌍 [LPO - Levantamento de Peso](http://oerlabs.com.br/lpo)
     
   <br>
